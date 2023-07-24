@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{44105D69-E11D-4256-9D01-07EB7AE82870}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassWork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWork/Controllers/EmployeeController.cs">
+    <Files>
+      <File FileName="ClassWork/Program.cs" Line="16" Column="39" />
+      <File FileName="ClassWork/Models/Person.cs" Line="12" Column="36" />
+      <File FileName="ClassWork/Models/Employee.cs" Line="9" Column="39" />
+      <File FileName="ClassWork/Services/PersonService.cs" Line="12" Column="3" />
+      <File FileName="ClassWork/Controllers/PersonController.cs" Line="55" Column="41" />
+      <File FileName="ClassWork/Services/EmployeeService.cs" Line="64" Column="106" />
+      <File FileName="ClassWork/Controllers/EmployeeController.cs" Line="27" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWork" expanded="True">
+            <Node name="ClassWork" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

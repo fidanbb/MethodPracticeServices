@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/bin/Debug/net6.0/ClassWork.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/refint/ClassWork.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ClassWork.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/ClassWork/ClassWork/obj/Debug/net6.0/ref/ClassWork.dll

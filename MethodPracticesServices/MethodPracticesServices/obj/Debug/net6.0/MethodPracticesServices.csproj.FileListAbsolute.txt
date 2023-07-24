@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/bin/Debug/net6.0/MethodPracticesServices
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/bin/Debug/net6.0/MethodPracticesServices.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/bin/Debug/net6.0/MethodPracticesServices.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/bin/Debug/net6.0/MethodPracticesServices.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/bin/Debug/net6.0/MethodPracticesServices.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/refint/MethodPracticesServices.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/MethodPracticesServices.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm7/MethodPracticesServices/MethodPracticesServices/obj/Debug/net6.0/ref/MethodPracticesServices.dll
